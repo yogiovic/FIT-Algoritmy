@@ -56,7 +56,7 @@
 ** procedury (v jazyce C procedurám odpovídají funkce vracející typ void).
 **/
 
-#include "c206.h"
+#include "dll_list.h"
 
 int solved;
 int errflg;

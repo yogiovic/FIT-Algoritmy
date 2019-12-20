@@ -36,7 +36,7 @@
 **
 **/
 
-#include "c202.h"
+#include "stack.h"
 
 int solved;
 int STACK_SIZE = MAX_STACK;

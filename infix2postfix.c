@@ -35,7 +35,7 @@
 **
 **/
 
-#include "c204.h"
+#include "infix2postfix.h"
 int solved;
 
 /*

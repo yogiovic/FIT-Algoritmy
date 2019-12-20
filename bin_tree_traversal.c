@@ -50,7 +50,7 @@
 ** Pokud pracujeme s ukazatelem na ukazatel, použijeme dereferenci.
 **/
 
-#include "c402.h"
+#include "bin_tree_traversal.h"
 int solved;
 
 void BTWorkOut (tBTNodePtr Ptr)		{

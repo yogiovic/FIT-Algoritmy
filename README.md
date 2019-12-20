@@ -10,7 +10,7 @@
 
 **2.Projekt**
 
- - Hash Table
- - Binary Tree
- - Binary Tree Traversals
+ - hash table
+ - binary tree
+ - binary tree traversals
  - **Body: 10/10**

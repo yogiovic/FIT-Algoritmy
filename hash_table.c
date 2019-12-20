@@ -39,7 +39,7 @@
 ** je přidán obsah - reálné číslo.
 */
 
-#include "c016.h"
+#include "hash_table.h"
 
 int HTSIZE = MAX_HTSIZE;
 int solved;
